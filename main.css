@@ -1,0 +1,27 @@
+body {
+    background: #181919;
+    color: #49bdba;
+    font-family: 'Roboto';
+}
+
+a {
+    color: #49bdba;
+    text-decoration: none;
+}
+
+p {
+    size: 20;
+    padding-left: 30vh;
+    padding-right: 30vh;
+    padding-bottom: 5vh;
+}
+
+.title {
+    padding-top: 3%;
+}
+
+.header-logo {
+    height: 20vh;
+    width: 20vh;
+}
+
